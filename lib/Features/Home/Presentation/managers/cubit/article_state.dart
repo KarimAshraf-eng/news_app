@@ -1,4 +1,4 @@
-import 'package:news_app/Features/Data/models/articles_model/articles_model.dart';
+import 'package:news_app/Features/Home/Data/models/articles_model/articles_model.dart';
 
 abstract class ArticleState {}
 

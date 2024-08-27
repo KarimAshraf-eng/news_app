@@ -1,4 +1,4 @@
-import 'package:news_app/Features/Data/category_model.dart';
+import 'package:news_app/Features/Home/Data/category_model.dart';
 
 List<CategoryModel> category = [
   CategoryModel(

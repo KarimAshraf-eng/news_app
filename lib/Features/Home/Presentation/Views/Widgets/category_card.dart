@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:news_app/Features/Data/category_model.dart';
+import 'package:news_app/Features/Home/Data/category_model.dart';
 
 import '../../managers/cubit/article_cubit.dart';
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:news_app/Features/Data/category_data.dart';
-import 'package:news_app/Features/Presentation/Views/Widgets/category_card.dart';
+import 'package:news_app/Features/Home/Data/category_data.dart';
+import 'package:news_app/Features/Home/Presentation/Views/Widgets/category_card.dart';
 
 class ListViewCategory extends StatelessWidget {
   const ListViewCategory({super.key});

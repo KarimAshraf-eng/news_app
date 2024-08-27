@@ -1,6 +1,6 @@
 import 'package:bloc/bloc.dart';
-import 'package:news_app/Features/Data/repo/home_repo.dart';
-import 'package:news_app/Features/Presentation/managers/cubit/article_state.dart';
+import 'package:news_app/Features/Home/Data/repo/home_repo.dart';
+import 'package:news_app/Features/Home/Presentation/managers/cubit/article_state.dart';
 
 class ArticleCubit extends Cubit<ArticleState> {
   ArticleCubit(this.homeRepo) : super(ArticleInitial());

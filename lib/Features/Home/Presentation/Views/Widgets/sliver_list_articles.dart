@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:news_app/Features/Presentation/Views/Widgets/articles_widget.dart';
-import 'package:news_app/Features/Presentation/managers/cubit/article_cubit.dart';
-import 'package:news_app/Features/Presentation/managers/cubit/article_state.dart';
+import 'package:news_app/Features/Home/Presentation/Views/Widgets/articles_widget.dart';
+import 'package:news_app/Features/Home/Presentation/managers/cubit/article_cubit.dart';
+import 'package:news_app/Features/Home/Presentation/managers/cubit/article_state.dart';
 
 class SliverListArticles extends StatelessWidget {
   const SliverListArticles({super.key});
